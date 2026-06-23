@@ -1,0 +1,7 @@
+﻿0,CombatZoneResize,133,251,508,391,,
+0,HeartTeleport,188,333,,,,
+0,HeartMode,1,,,,,
+0,Platform,158,341,60,0,100,1
+0,BoneH,139,375,363,0,0,
+0,BoneV,315,321,20,0,0,
+5,EndAttack,,,,,,
